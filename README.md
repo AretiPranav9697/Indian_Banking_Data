@@ -34,10 +34,6 @@ Card Usage
 🏬 Branch / Performance Fields
 Branch Name / Region
 Employee Count
-					                                                                            	Bank Transaction DashBoard																			
+Bank Transaction DashBoard																			
 																									
 <img width="2081" height="665" alt="image" src="https://github.com/user-attachments/assets/38b32c2b-0546-4eb9-9c3b-4bfb2f22181b" />
-
-Revenue
-
-Cost
